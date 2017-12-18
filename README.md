@@ -1,6 +1,6 @@
 # Car_Simulator
 
-Read guidelines below for assignment. This was a group assignment. No Raspberry Pis or socket programming used. Just a single car moving.
+Read guidelines below for assignment. This was a group assignment which consisted of one car moving, not multiple. No Raspberry Pis or socket programming used.
 
 UNC Charlotte Course: ECGR-4090
 
