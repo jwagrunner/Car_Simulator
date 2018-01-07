@@ -2,6 +2,8 @@
 
 Read guidelines below for assignment. This was a group assignment which consisted of one car moving, not multiple. No Raspberry Pis or socket programming used.
 
+Note: The codes used in the following projects were taken from various sources abd modified as instructed from professor.
+
 UNC Charlotte Course: ECGR-4090
 
 Special Topics in Electrical Engineering:
